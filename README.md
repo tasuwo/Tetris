@@ -1,7 +1,7 @@
 Tetris
 ======
 
-A tetris game written in Common Lisp, using lispbuilder-sdl.  
+A tetris game written in Common Lisp, using lispbuilder-sdl.
 
 Getting Started
 ===============
